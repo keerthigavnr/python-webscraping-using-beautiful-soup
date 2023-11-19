@@ -6,6 +6,14 @@ This Python script,scrapes job postings from websites based on specific skills a
 
 This project utilizes Python along with BeautifulSoup and Requests libraries to extract job listings from the website. It enables the user to specify a skill they are not familiar with and filters out job postings that require that skill. The filtered job information is then saved into separate text files for further review.
 
+## Prerequisites
+
+Before running this script, make sure to install the required Python libraries:
+
+    -BeautifulSoup: 'pip install beautifulsoup4'
+    -lxml parser: 'pip install lxml'
+    -Requests: 'pip install requests'
+    
 ## Folder Structure
 
 - `webscraper.py`: Contains the main script for scraping job postings.
