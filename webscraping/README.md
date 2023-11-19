@@ -1,4 +1,4 @@
-# WebScraper
+# WebScrapper
 
 This Python script,scrapes job postings from websites based on specific skills and saves relevant information to text files.
 
