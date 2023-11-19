@@ -1,4 +1,4 @@
-# Python Web Scraping Project using BeautifulSOup
+# Python Web Scraping Project using BeautifulSoup
 
 
 ## Overview
