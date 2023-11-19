@@ -10,9 +10,9 @@ This project utilizes Python along with BeautifulSoup and Requests libraries to 
 
 Before running this script, make sure to install the required Python libraries:
 
-    -BeautifulSoup: 'pip install beautifulsoup4'
-    -lxml parser: 'pip install lxml'
-    -Requests: 'pip install requests'
+     - BeautifulSoup: pip install eautifulsoup4
+     - lxml parser: pip install lxml
+     - Requests: pip install requests
     
 ## Folder Structure
 
